@@ -1,0 +1,11 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore generated session logs and screenshots
+session_*.csv
+scapula_*.png
+
+# Ignore virtual environments
+venv/
+env/
