@@ -33,6 +33,6 @@ The correctness thresholds and tracking logic are directly grounded in peer-revi
 ### 1. Install Dependencies
 Clone this repository and install the required packages:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/scapula-motion-tracker.git](https://github.com/YOUR_USERNAME/scapula-motion-tracker.git)
+git clone [https://github.com/TanmayD03/scapula-motion-tracker.git](https://github.com/TanmayD03/scapula-motion-tracker.git)
 cd scapula-motion-tracker
 pip install -r requirements.txt
